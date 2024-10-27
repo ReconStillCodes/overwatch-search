@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Assault",
+        "subtitle": "The Damage Dealers",
+        "description": "Damage heroes seek out, engage, and obliterate the enemy with wide-ranging tools, abilities, and play styles. Fearsome but fragile, these heroes require backup to survive.",
+        "passive": "Damaging an enemy temporarily reduces their healing received.",
+        "banner": "assault-banner.webp",
+        "img": "assault.webp"
+    },
+    {
+        "name": "Support",
+        "subtitle": "Keeping Allies Strong and Steady",
+        "description": "Support heroes empower their allies by healing, shielding, boosting damage, and disabling foes. As a support, you’re the backbone of your team’s survival.",
+        "passive": "Begin regenerating health more quickly.",
+        "banner": "support-banner.webp",
+        "img": "support.webp"
+    },
+    {
+        "name": "Tank",
+        "subtitle": "The Team’s Frontline and Shield",
+        "description": "Tank heroes soak up damage and shatter fortified positions, like closely grouped enemies and narrow chokepoints. If you’re a tank, you lead the charge.",
+        "passive": "Reduces knockbacks and critical damage received.",
+        "banner": "tank-banner.avif",
+        "img": "tank.webp"
+    }
+]
