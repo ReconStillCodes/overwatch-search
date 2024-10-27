@@ -1,0 +1,412 @@
+[
+    {
+        "name": "Anna",
+        "subtitle": "Sharpshooting Support",
+        "description": "One of the founding members of Overwatch, Ana uses her skills and expertise to defend her home and the people she cares for.",
+        "role": 2,
+        "folder": "anna",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.webp",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Ashe",
+        "subtitle": "The Rogue Gunslinger",
+        "description": "Ashe is the ambitious and calculating leader of the Deadlock Rebels Gang and a respected figure in the criminal underworld.",
+        "role": 1,
+        "folder": "ashe",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.webp",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Baptiste",
+        "subtitle": "The Combat Medic",
+        "description": "An elite combat medic and ex-Talon operative, Baptiste now uses his skills to help those whose lives have been impacted by war.",
+        "role": 2,
+        "folder": "baptiste",
+        "landscape": "landscape.jpg",
+        "potrait": "potrait.webp",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Bastion",
+        "subtitle": " Sentinel of Destruction",
+        "description": "Once a frontline combatant in the devastating Omnic Crisis, this curious Bastion unit now explores the world, fascinated by nature but wary of a fearful humanity.",
+        "role": 1,
+        "folder": "bastion",
+        "landscape": "landscape.jpg",
+        "potrait": "potrait.jpg",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Brigitte",
+        "subtitle": "Paladin Mechanic",
+        "description": "No longer sitting on the sidelines, Brigitte Lindholm has taken up arms to defend those in need of protection.",
+        "role": 2,
+        "folder": "brigitte",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.webp",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Cassidy",
+        "subtitle": "Wild West",
+        "description": "Armed with his Peacekeeper revolver, the outlaw Cole Cassidy doles out justice on his own terms.",
+        "role": 1,
+        "folder": "cassidy",
+        "landscape": "landscape.jpg",
+        "potrait": "potrait.jpg",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Doomfist",
+        "subtitle": "The Powerhouse of Destruction",
+        "description": "Doomfist is the calculating leader of Talon, a terrorist organization and paramilitary force that works in direct opposition to Overwatch.",
+        "role": 3,
+        "folder": "doomfist",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.webp",
+        "profile": "profile.png"
+    },
+    {
+        "name": "D.VA",
+        "subtitle": "Mech Pilot",
+        "description": "D.Va is a former professional gamer who now uses her skills to pilot a state-of-the-art mech in defense of her homeland.",
+        "role": 3,
+        "folder": "dva",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.jpg",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Echo",
+        "subtitle": "Adaptive Combatant",
+        "description": "Echo is a multirole, adaptive robot with the most sophisticated artificial intelligence in the world, originally designed by Dr. Mina Liao for use during combat missions with Overwatch.",
+        "role": 1,
+        "folder": "echo",
+        "landscape": "landscape.jpg",
+        "potrait": "potrait.jpeg",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Genji",
+        "subtitle": "Swift Cyber-Ninja",
+        "description": "The cyborg ninja Genji Shimada has made peace with the augmented body he once rejected, and in doing so, he has discovered a higher humanity.",
+        "role": 1,
+        "folder": "genji",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.jpg",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Hanzo",
+        "subtitle": "Master Archer",
+        "description": "Mastering his skills as a bowman and an assassin, Hanzo Shimada strives to prove himself as a warrior without peer.",
+        "role": 1,
+        "folder": "hanzo",
+        "landscape": "landscape.jpg",
+        "potrait": "potrait.jpg",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Illari",
+        "subtitle": "Light-Wielding Healer",
+        "description": "As the last of the Inti Warriors, Illari is a vessel for the power of the sun. She’ll do anything to make up for her past.",
+        "role": 2,
+        "folder": "illari",
+        "landscape": "landscape.png",
+        "potrait": "potrait.jpg",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Junker Queen",
+        "subtitle": "The Ruthless Leader",
+        "description": "Armed with her axe, Carnage, and her electromagnetic gauntlet, the cutthroat leader of the Junkers is on a mission to rule the world.",
+        "role": 3,
+        "folder": "junker-queen",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.webp",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Junkrat",
+        "subtitle": "Explosive Demolitionist",
+        "description": "Junkrat is an explosives-obsessed demolitionist who lives to cause chaos and destruction.",
+        "role": 1,
+        "folder": "junkrat",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.webp",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Juno",
+        "subtitle": "The Martian",
+        "description": "The first human born on Mars, Juno uses her space-age technology to solve any problem that enters her orbit. She is determined to one day save her home planet.",
+        "role": 2,
+        "folder": "juno",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.webp",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Kiriko",
+        "subtitle": "Shrine Maiden",
+        "description": "As Miko of the Kanezaka shrine and daughter of the Shimada's former swordmaster, Kiriko Kamori channels both her spiritual and ninja skills to heal her fractured city.",
+        "role": 2,
+        "folder": "kiriko",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.webp",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Lifeweaver",
+        "subtitle": "Nature’s Healer",
+        "description": "The brilliant creator of biolight, a technology that merges plant matter and hard light. He dreams of healing the world.",
+        "role": 2,
+        "folder": "lifeweaver",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.jpg",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Lucio",
+        "subtitle": "Beat-Driven DJ",
+        "description": "Lúcio is an international celebrity who inspires social change through his music and activism.",
+        "role": 2,
+        "folder": "lucio",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.webp",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Mauga",
+        "subtitle": "The Devastator",
+        "description": "A charismatic and cunning Samoan warrior, Mauga thrives in the chaos of the battlefield and lives every day like it’s his last.",
+        "role": 3,
+        "folder": "mauga",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.webp",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Mei",
+        "subtitle": "Frosty Scientist",
+        "description": "Mei is a scientist who has taken the fight to preserve the environment into her own hands.",
+        "role": 1,
+        "folder": "mei",
+        "landscape": "landscape.jpg",
+        "potrait": "potrait.jpg",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Mercy",
+        "subtitle": "Guardian Angel",
+        "description": "A guardian angel to those who come under her care, Dr. Angela Ziegler is a peerless healer, a brilliant scientist, and a staunch advocate for peace.",
+        "role": 2,
+        "folder": "mercy",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.webp",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Moira",
+        "subtitle": "The Biotic Omnist",
+        "description": "Equal parts brilliant and controversial, scientist Moira O'Deorain is on the cutting edge of genetic engineering, searching for a way to rewrite the fundamental building blocks of life.",
+        "role": 2,
+        "folder": "moira",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.jpg",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Orisa",
+        "subtitle": "Steadfast Guardian",
+        "description": "Built from parts of one of Numbani's short-lived OR15 defense robots, Orisa is the city's newest protector, though she still has much to learn.",
+        "role": 3,
+        "folder": "orisa",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.jpg",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Pharah",
+        "subtitle": "Aerial Firepower",
+        "description": "Fareeha Amari's commitment to duty runs in her blood. She comes from a long line of highly decorated soldiers and burns with the desire to serve with honor.",
+        "role": 1,
+        "folder": "pharah",
+        "landscape": "landscape.jpg",
+        "potrait": "potrait.jpg",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Ramattra",
+        "subtitle": "The Omnic Protector",
+        "description": "The brutal leader of Null Sector will stop at nothing to see his vision for the world realized.",
+        "role": 3,
+        "folder": "ramattra",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.jpg",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Reaper",
+        "subtitle": "Death Omen",
+        "description": "Some speak of a black-robed terrorist known only as the Reaper. His identity and motives are a mystery. What is known is that where he appears, death follows.",
+        "role": 1,
+        "folder": "reaper",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.webp",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Reinhardt",
+        "subtitle": "Crusader Knight",
+        "description": "Reinhardt Wilhelm styles himself as a champion of a bygone age, who lives by the knightly codes of valor, justice, and courage.",
+        "role": 3,
+        "folder": "reinhardt",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.jpg",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Roadhog",
+        "subtitle": "Ruthless Brawler",
+        "description": "Roadhog is a powerful enforcer with a well-earned reputation for random and wanton destruction.",
+        "role": 3,
+        "folder": "roadhog",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.webp",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Sigma",
+        "subtitle": "Gravity-Bending",
+        "description": "Brilliant astrophysicist Dr. Siebren de Kuiper's life changed forever when an experiment gone wrong gave him the ability to control gravity; now, Talon manipulates him to their own ends.",
+        "role": 3,
+        "folder": "sigma",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.jpg",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Sojourn",
+        "subtitle": "Cybernetic Soldier",
+        "description": "As a leader in the bygone days of Overwatch, Vivian Chase, callsign Sojourn, is determined to ensure its new heroes don’t repeat the mistakes of the past.",
+        "role": 1,
+        "folder": "sojourn",
+        "landscape": "landscape.jpg",
+        "potrait": "potrait.jpg",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Soldier 76",
+        "subtitle": "Fearceful Leader",
+        "description": "The target of an international manhunt, the vigilante known as Soldier: 76 wages a personal war to expose the truth behind Overwatch's collapse.",
+        "role": 1,
+        "folder": "soldier-76",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.jpg",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Sombra",
+        "subtitle": "Stealthy Hacker",
+        "description": "One of the world's most notorious hackers, Sombra uses information to manipulate those in power.",
+        "role": 1,
+        "folder": "sombra",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.jpg",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Symmetra",
+        "subtitle": "The Architect of Light",
+        "description": "Symmetra literally bends reality. By manipulating hard-light constructs, she crafts the world as she wishes it to be, in hopes of engineering a perfect society.",
+        "role": 1,
+        "folder": "symmetra",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.webp",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Torbjorn",
+        "subtitle": "Master Engineer",
+        "description": "At its height, Overwatch possessed one of the most advanced armaments on the planet, which could be traced to the workshop of an ingenious engineer named Torbjörn Lindholm.",
+        "role": 1,
+        "folder": "torbjorn",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.jpg",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Tracer",
+        "subtitle": "The Iconic Time-Jumper",
+        "description": "The former Overwatch agent known as Tracer is a time-jumping adventurer and an irrepressible force for good.",
+        "role": 1,
+        "folder": "tracer",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.jpg",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Venture",
+        "subtitle": "The Fearless Explorer",
+        "description": "A globe-trotting archaeologist and explorer, Venture has a passion for solving history’s mysteries.",
+        "role": 1,
+        "folder": "venture",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.jpg",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Widowmaker",
+        "subtitle": "The Lethal Sniper",
+        "description": "Widowmaker is the perfect assassin: a patient, ruthlessly efficient killer who shows neither emotion nor remorse.",
+        "role": 1,
+        "folder": "widowmaker",
+        "landscape": "landscape.jpg",
+        "potrait": "potrait.webp",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Winston",
+        "subtitle": "The Scientist",
+        "description": "A super-intelligent, genetically engineered gorilla, Winston is a brilliant scientist and a champion for humanity’s potential.",
+        "role": 3,
+        "folder": "winston",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.jpg",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Wrecking Ball",
+        "subtitle": "Gladiator Hamster",
+        "description": "A resourceful and highly intelligent mechanic and fighter, Wrecking Ball rose from the laboratories of Horizon Lunar Colony to become the Junker Queen’s champion.",
+        "role": 3,
+        "folder": "wrecking-ball",
+        "landscape": "landscape.jpg",
+        "potrait": "potrait.jpg",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Zarya",
+        "subtitle": "World Strongest Woman",
+        "description": "Aleksandra Zaryanova is one of the world's strongest women, a celebrated athlete who sacrificed personal glory to protect her family, friends, and country in a time of war.",
+        "role": 3,
+        "folder": "zarya",
+        "landscape": "landscape.jpg",
+        "potrait": "potrait.jpg",
+        "profile": "profile.png"
+    },
+    {
+        "name": "Zenyatta",
+        "subtitle": "Tranquil Monk",
+        "description": "Zenyatta is an omnic monk who wanders the world in search of spiritual enlightenment. It is said that those who cross his path are never the same again.",
+        "role": 2,
+        "folder": "zenyatta",
+        "landscape": "landscape.webp",
+        "potrait": "potrait.jpg",
+        "profile": "profile.png"
+    }
+]

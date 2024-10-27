@@ -17,8 +17,18 @@ return new class extends Migration
             $table->id();
             $table->timestamps();
             $table->string("name");
+            $table->string("subtitle");
+            $table->text("description");
+            $table->unsignedBigInteger('role');
             $table->string("folder");
+            $table->string('landscape');
+            $table->string('potrait');
+            $table->string('profile');
 
+            $table->foreign('role')
+            ->references('id')
+            ->on('roles')
+            ->onDelete('cascade');
         });
     }
 
