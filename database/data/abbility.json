@@ -1,0 +1,617 @@
+[
+    {
+        "hero_id": 1,
+        "no": 1,
+        "name": "Sleep Dart"
+    },
+    {
+        "hero_id": 1,
+        "no": 2,
+        "name": "Biotic Grenade"
+    },
+    {
+        "hero_id": 1,
+        "no": 3,
+        "name": "Nano Boost"
+    },
+    {
+        "hero_id": 2,
+        "no": 1,
+        "name": "Coach Gun"
+    },
+    {
+        "hero_id": 2,
+        "no": 2,
+        "name": "Dynamite"
+    },
+    {
+        "hero_id": 2,
+        "no": 3,
+        "name": "B.O.B"
+    },
+    {
+        "hero_id": 3,
+        "no": 1,
+        "name": "Regenrative Burst"
+    },
+    {
+        "hero_id": 3,
+        "no": 2,
+        "name": "Immortality"
+    },
+    {
+        "hero_id": 3,
+        "no": 3,
+        "name": "Amplification Matrix"
+    },
+    {
+        "hero_id": 4,
+        "no": 1,
+        "name": "Tactical Grenade"
+    },
+    {
+        "hero_id": 4,
+        "no": 2,
+        "name": "Configuration"
+    },
+    {
+        "hero_id": 4,
+        "no": 3,
+        "name": "Artillery"
+    },
+    {
+        "hero_id": 5,
+        "no": 1,
+        "name": "Whip Shot"
+    },
+    {
+        "hero_id": 5,
+        "no": 2,
+        "name": "Shield Bash"
+    },
+    {
+        "hero_id": 5,
+        "no": 3,
+        "name": "Rally"
+    },
+    {
+        "hero_id": 6,
+        "no": 1,
+        "name": "Peacekeeper"
+    },
+    {
+        "hero_id": 6,
+        "no": 2,
+        "name": "Combat Roll"
+    },
+    {
+        "hero_id": 6,
+        "no": 3,
+        "name": "Deadeye"
+    },
+    {
+        "hero_id": 7,
+        "no": 1,
+        "name": "Boosters"
+    },
+    {
+        "hero_id": 7,
+        "no": 2,
+        "name": "Micro Missiles"
+    },
+    {
+        "hero_id": 7,
+        "no": 3,
+        "name": "Self-Destruct"
+    },
+    {
+        "hero_id": 8,
+        "no": 1,
+        "name": "Rocket Punch"
+    },
+    {
+        "hero_id": 8,
+        "no": 2,
+        "name": "Power Block"
+    },
+    {
+        "hero_id": 8,
+        "no": 3,
+        "name": "Meteor Strike"
+    },
+    {
+        "hero_id": 9,
+        "no": 1,
+        "name": "Sticky Bombs"
+    },
+    {
+        "hero_id": 9,
+        "no": 2,
+        "name": "Focusing Beam"
+    },
+    {
+        "hero_id": 9,
+        "no": 3,
+        "name": "Duplicate"
+    },
+    {
+        "hero_id": 10,
+        "no": 1,
+        "name": "Deflect"
+    },
+    {
+        "hero_id": 10,
+        "no": 2,
+        "name": "Swift Strike"
+    },
+    {
+        "hero_id": 10,
+        "no": 3,
+        "name": "Dragonblade"
+    },
+    {
+        "hero_id": 11,
+        "no": 1,
+        "name": "Storm Arrows"
+    },
+    {
+        "hero_id": 11,
+        "no": 2,
+        "name": "Sonic Arrow"
+    },
+    {
+        "hero_id": 11,
+        "no": 3,
+        "name": "Dragonstrike"
+    },
+    {
+        "hero_id": 12,
+        "no": 1,
+        "name": "Captive Sun"
+    },
+    {
+        "hero_id": 12,
+        "no": 2,
+        "name": "Healing Pylon"
+    },
+    {
+        "hero_id": 12,
+        "no": 3,
+        "name": "Outburst"
+    },
+    {
+        "hero_id": 13,
+        "no": 1,
+        "name": "Jagged Blade"
+    },
+    {
+        "hero_id": 13,
+        "no": 2,
+        "name": "Carnage"
+    },
+    {
+        "hero_id": 13,
+        "no": 3,
+        "name": "Rampage"
+    },
+    {
+        "hero_id": 14,
+        "no": 1,
+        "name": "Concussion Mine"
+    },
+    {
+        "hero_id": 14,
+        "no": 2,
+        "name": "Steel Trap"
+    },
+    {
+        "hero_id": 14,
+        "no": 3,
+        "name": "Rip Tire"
+    },
+    {
+        "hero_id": 15,
+        "no": 1,
+        "name": "Pulsar Torpedoes"
+    },
+    {
+        "hero_id": 15,
+        "no": 2,
+        "name": "Orbital Ray"
+    },
+    {
+        "hero_id": 15,
+        "no": 3,
+        "name": "Hyper Ring"
+    },
+    {
+        "hero_id": 16,
+        "no": 1,
+        "name": "Swift Step"
+    },
+    {
+        "hero_id": 16,
+        "no": 2,
+        "name": "Protection Suzu"
+    },
+    {
+        "hero_id": 16,
+        "no": 3,
+        "name": "Kitsune Rush"
+    },
+    {
+        "hero_id": 17,
+        "no": 1,
+        "name": "Petal Platform"
+    },
+    {
+        "hero_id": 17,
+        "no": 2,
+        "name": "Life Grip"
+    },
+    {
+        "hero_id": 17,
+        "no": 3,
+        "name": "Tree Of Life"
+    },
+    {
+        "hero_id": 18,
+        "no": 1,
+        "name": "Amp It Up"
+    },
+    {
+        "hero_id": 18,
+        "no": 2,
+        "name": "Soundwave"
+    },
+    {
+        "hero_id": 18,
+        "no": 3,
+        "name": "Sound Barrier"
+    },
+    {
+        "hero_id": 19,
+        "no": 1,
+        "name": "Overrun"
+    },
+    {
+        "hero_id": 19,
+        "no": 2,
+        "name": "Berserker"
+    },
+    {
+        "hero_id": 19,
+        "no": 3,
+        "name": "Cage Fight"
+    },
+    {
+        "hero_id": 20,
+        "no": 1,
+        "name": "Cryo-Freeze"
+    },
+    {
+        "hero_id": 20,
+        "no": 2,
+        "name": "Ice Wall"
+    },
+    {
+        "hero_id": 20,
+        "no": 3,
+        "name": "Blizzard"
+    },
+    {
+        "hero_id": 21,
+        "no": 1,
+        "name": "Guardian Angel"
+    },
+    {
+        "hero_id": 21,
+        "no": 2,
+        "name": "Resurrect"
+    },
+    {
+        "hero_id": 21,
+        "no": 3,
+        "name": "Valkyrie"
+    },
+    {
+        "hero_id": 22,
+        "no": 1,
+        "name": "Biotic Orb"
+    },
+    {
+        "hero_id": 22,
+        "no": 2,
+        "name": "Fade"
+    },
+    {
+        "hero_id": 22,
+        "no": 3,
+        "name": "Coalescence"
+    },
+    {
+        "hero_id": 23,
+        "no": 1,
+        "name": "Energy Javelin"
+    },
+    {
+        "hero_id": 23,
+        "no": 2,
+        "name": "Fortify"
+    },
+    {
+        "hero_id": 23,
+        "no": 3,
+        "name": "Javelin Spin"
+    },
+    {
+        "hero_id": 24,
+        "no": 1,
+        "name": "Jump Jet"
+    },
+    {
+        "hero_id": 24,
+        "no": 2,
+        "name": "Concussive Blast"
+    },
+    {
+        "hero_id": 24,
+        "no": 3,
+        "name": "Barrage"
+    },
+    {
+        "hero_id": 25,
+        "no": 1,
+        "name": "Void Barrier"
+    },
+    {
+        "hero_id": 25,
+        "no": 2,
+        "name": "Ravenous Vortex"
+    },
+    {
+        "hero_id": 25,
+        "no": 3,
+        "name": "Annihilation"
+    },
+    {
+        "hero_id": 26,
+        "no": 1,
+        "name": "Shadow Step"
+    },
+    {
+        "hero_id": 26,
+        "no": 2,
+        "name": "Wraith Form"
+    },
+    {
+        "hero_id": 26,
+        "no": 3,
+        "name": "Death Blossom"
+    },
+    {
+        "hero_id": 27,
+        "no": 1,
+        "name": "Charge"
+    },
+    {
+        "hero_id": 27,
+        "no": 2,
+        "name": "Fire Strike"
+    },
+    {
+        "hero_id": 27,
+        "no": 3,
+        "name": "Earthshatter"
+    },
+    {
+        "hero_id": 28,
+        "no": 1,
+        "name": "Chain Hook"
+    },
+    {
+        "hero_id": 28,
+        "no": 2,
+        "name": "Take A Breather"
+    },
+    {
+        "hero_id": 28,
+        "no": 3,
+        "name": "Whole Hog"
+    },
+    {
+        "hero_id": 29,
+        "no": 1,
+        "name": "Kinetic Grasp"
+    },
+    {
+        "hero_id": 29,
+        "no": 2,
+        "name": "Accretion"
+    },
+    {
+        "hero_id": 29,
+        "no": 3,
+        "name": "Gravitic Flux"
+    },
+    {
+        "hero_id": 30,
+        "no": 1,
+        "name": "Power Slide"
+    },
+    {
+        "hero_id": 30,
+        "no": 2,
+        "name": "Disruption Shot"
+    },
+    {
+        "hero_id": 30,
+        "no": 3,
+        "name": "Overclock"
+    },
+    {
+        "hero_id": 31,
+        "no": 1,
+        "name": "Biotic Field"
+    },
+    {
+        "hero_id": 31,
+        "no": 2,
+        "name": "Helix Rockets"
+    },
+    {
+        "hero_id": 31,
+        "no": 3,
+        "name": "Tactical Visor"
+    },
+    {
+        "hero_id": 32,
+        "no": 1,
+        "name": "Hack"
+    },
+    {
+        "hero_id": 32,
+        "no": 2,
+        "name": "Translocator"
+    },
+    {
+        "hero_id": 32,
+        "no": 3,
+        "name": "EMP"
+    },
+    {
+        "hero_id": 33,
+        "no": 1,
+        "name": "Sentry Turret"
+    },
+    {
+        "hero_id": 33,
+        "no": 2,
+        "name": "Teleporter"
+    },
+    {
+        "hero_id": 33,
+        "no": 3,
+        "name": "Photon Barrier"
+    },
+    {
+        "hero_id": 34,
+        "no": 1,
+        "name": "Deploy Turret"
+    },
+    {
+        "hero_id": 34,
+        "no": 2,
+        "name": "Overload"
+    },
+    {
+        "hero_id": 34,
+        "no": 3,
+        "name": "Molten Core"
+    },
+    {
+        "hero_id": 35,
+        "no": 1,
+        "name": "Blink"
+    },
+    {
+        "hero_id": 35,
+        "no": 2,
+        "name": "Recall"
+    },
+    {
+        "hero_id": 35,
+        "no": 3,
+        "name": "Pulse Bomb"
+    },
+    {
+        "hero_id": 36,
+        "no": 1,
+        "name": "Drill Dash"
+    },
+    {
+        "hero_id": 36,
+        "no": 2,
+        "name": "Burrow"
+    },
+    {
+        "hero_id": 36,
+        "no": 3,
+        "name": "Tectonic Shock"
+    },
+    {
+        "hero_id": 37,
+        "no": 1,
+        "name": "Grappling Hook"
+    },
+    {
+        "hero_id": 37,
+        "no": 2,
+        "name": "Venom Mine"
+    },
+    {
+        "hero_id": 37,
+        "no": 3,
+        "name": "Infra-Sight"
+    },
+    {
+        "hero_id": 38,
+        "no": 1,
+        "name": "Jump Pack"
+    },
+    {
+        "hero_id": 38,
+        "no": 2,
+        "name": "Barrier Projection"
+    },
+    {
+        "hero_id": 38,
+        "no": 3,
+        "name": "Primal Rage"
+    },
+    {
+        "hero_id": 39,
+        "no": 1,
+        "name": "Grappliing Claw"
+    },
+    {
+        "hero_id": 39,
+        "no": 2,
+        "name": "Adaptive Shield"
+    },
+    {
+        "hero_id": 39,
+        "no": 3,
+        "name": "Minefield"
+    },
+    {
+        "hero_id": 40,
+        "no": 1,
+        "name": "Particle Barrier"
+    },
+    {
+        "hero_id": 40,
+        "no": 2,
+        "name": "Projected Barrier"
+    },
+    {
+        "hero_id": 40,
+        "no": 3,
+        "name": "Graviton Surge"
+    },
+    {
+        "hero_id": 41,
+        "no": 1,
+        "name": "Orb Of Discord"
+    },
+    {
+        "hero_id": 41,
+        "no": 2,
+        "name": "Orb Of Harmony"
+    },
+    {
+        "hero_id": 41,
+        "no": 3,
+        "name": "Transcendence"
+    }
+]

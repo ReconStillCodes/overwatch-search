@@ -23,5 +23,6 @@ class DatabaseSeeder extends Seeder
 
         $this->call(RoleSeeder::class);
         $this->call(HeroSeeder::class);
+        $this->call(AbbilitySeeder::class);
     }
 }
