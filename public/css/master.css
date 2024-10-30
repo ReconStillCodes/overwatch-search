@@ -1,0 +1,34 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #1b1d23;
+    box-sizing: border-box;
+}
+
+.bg-blur {
+    backdrop-filter: blur(15px);
+}
+
+.nb {
+    position: fixed;
+    z-index: 1030;
+}
+
+.main-content {
+    padding: 0;
+    margin: 0;
+}
+
+.jumbotron {
+    padding: 0;
+    width: 100vw;
+    height: 70vh;
+    background-color: red;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.2;
+}
+
+.jumbotron-search {
+    background-image: url("/asset/jumbotron/search.jpg");
+}
