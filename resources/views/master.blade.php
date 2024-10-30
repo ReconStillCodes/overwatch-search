@@ -4,26 +4,27 @@
     <title>@yield('title')</title>
     <link href="/bootstrap-5.0.2-dist/css/bootstrap.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/master.css">
+    @yield('style')
 </head>
 
 <body>
     {{-- Nav Bar --}}
-    <nav class="navbar bg-blur nb container-fluid">
-        <div class="container-md  fw-bold justify-content-start">
-            <a href="{{route('home')}}" class="text-decoration-none h5 fw-bold me-5">
-                <span class="text-primary"> 
+    <nav class="navbar bg-blur nb container-fluid align-items-center">
+        <div class="container-md justify-content-start nb-container">
+            <a href="{{route('home')}}" class="text-decoration-none me-5 nb-item">
+                <span class="ft-color-orange fw-bold h6 "> 
                     OVERWATCH
                 </span>
             </a>
-            <div class="dropdown">
-                <button class="btn btn-secondary dropdown-toggle" type="button" id="dd-roles" data-bs-toggle="dropdown">
+            <div class="dropdown ">
+                <button class="btn dropdown-toggle ft-color-orange fw-bold h5 nb-item" type="button" id="dd-roles" data-bs-toggle="dropdown">
                     ROLES
                 </button>
                 
                 <ul class="dropdown-menu" aria-labelledby="dd-roles">
                     @foreach ($roles as $r)
                         <li>
-                            <a href="{{$r->id}}" class="dropdown-item">
+                            <a href="{{$r->id}}" class="dropdown-item fw-bold h6">
                                 {{strtoupper($r->name)}}
                             </a>
                         </li>

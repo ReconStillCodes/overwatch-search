@@ -1,0 +1,58 @@
+.icon {
+    background-color: transparent;
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
+}
+
+.icon-left {
+    border-left: 3px solid white;
+    border-right: 0;
+}
+
+.icon-right {
+    border-right: 3px solid white;
+    border-left: 0;
+}
+
+.input-btn {
+    width: 80%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    outline: none;
+    box-shadow: none;
+    border: transparent;
+}
+
+.input-btn:hover {
+    outline: none;
+    box-shadow: none;
+    border: transparent;
+}
+
+.input-icon {
+    width: 1.2em;
+    height: 1.2em;
+}
+
+.input-content {
+    background-color: transparent;
+    color: white;
+    font-size: 1.2em;
+    border-left: 0;
+    border-right: 0;
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
+}
+
+.input-content:focus {
+    background-color: transparent;
+    color: white;
+    outline: none;
+    box-shadow: none;
+    border-left: 0;
+    border-right: 0;
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
+}

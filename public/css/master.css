@@ -14,21 +14,61 @@ body {
     z-index: 1030;
 }
 
+.nb-container {
+    height: 100%;
+    align-items: center;
+}
+
+.nb-item {
+    height: 80%;
+    text-align: center;
+    margin: 0;
+}
+
+.nb-item:hover {
+    cursor: poitner;
+    color: #fa9c1b;
+    outline: none;
+    border: none;
+}
+
 .main-content {
     padding: 0;
     margin: 0;
+}
+
+.ft-color-orange {
+    color: #fa9c1b;
+    font-style: italic;
 }
 
 .jumbotron {
     padding: 0;
     width: 100vw;
     height: 70vh;
-    background-color: red;
     background-size: cover;
     background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.jumbotron-img {
+    width: 100vw;
+    height: 70vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    object-fit: cover;
     opacity: 0.2;
 }
 
-.jumbotron-search {
-    background-image: url("/asset/jumbotron/search.jpg");
+.jumbotron-content {
+    opacity: 1;
+    z-index: 2;
+}
+
+.jumbotron-title {
+    font-size: 5em;
+    color: white;
+    font-style: italic;
 }
