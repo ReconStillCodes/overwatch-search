@@ -8,6 +8,6 @@ use Illuminate\Http\Request;
 class AbbilityController extends Controller
 {
     public function getAbbilities($hero_id){
-        // return Abbility::
+        return Abbility::where('hero_id', $hero_id)->get();
     }
 }

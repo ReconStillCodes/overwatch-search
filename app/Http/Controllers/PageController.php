@@ -9,12 +9,14 @@ class PageController extends Controller
 {
     protected $roleController;
     protected $heroController;
+    protected $abbilityController;
 
     public function __construct()
     {
         $this->roleController = app
         (RoleController::class);
         $this->heroController = app(HeroController::class);
+        $this->abbilityController = app(AbbilityController::class);
     }
 
     protected function getAllRoles(){
@@ -38,6 +40,7 @@ class PageController extends Controller
     public function toHero($hero_id){
         $roles = $this->getAllRoles();
         $hero = $this->heroController->getHero($hero_id);
-        return view('hero', compact('roles', 'hero'));
+        $abilities = $this->abbilityController->getAbbilities($hero_id);
+        return view('hero', compact('roles', 'hero', 'abilities'));
     }
 }

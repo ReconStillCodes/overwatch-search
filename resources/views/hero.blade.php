@@ -23,9 +23,13 @@
 @endsection
 
 @section('main-content')
-    <div class="container-md d-flex justify-content-center mt-4">
-        <div class="d-flex flex-column align-items-center t col-3">
-            test
-        </div>
+    <div class="container-md d-flex justify-content-center mt-5 mb-5">
+        @foreach ($abilities as $a)
+            <div class="d-flex flex-column align-items-center t col-lg-3 col-md-4 col-sm-6 mx-3">
+                <img src="/asset/heroes/{{ $hero->folder }}/{{$a->no}}.png" alt="{{$a->name}}">
+                <h3 class="text-uppercase ft-color-orange mt-4 text-center">{{$a->name}}</h3>
+            </div>    
+        @endforeach
+        
     </div>
 @endsection
