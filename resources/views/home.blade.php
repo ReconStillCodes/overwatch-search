@@ -43,14 +43,14 @@
         <div class="row text-center justify-content-center px-6 card-container">
 
             @foreach ($heroes as $h)
-                <button class="col-md-3 m-4  col-lg-2 card p-0 d-flex align-items-center flex-column text-center" type="button">
-                <img src="/asset/heroes/{{$h->folder}}/profile.png" alt="{{$h->name}}" class="card-img">
+                <a class="col-md-3 m-4  col-lg-2 card p-0 d-flex align-items-center flex-column text-center" href="{{route('hero', [$h->id])}}" >
+                    <img src="/asset/heroes/{{$h->folder}}/profile.png" alt="{{$h->name}}" class="card-img">
 
-                <h4 class="ft-color-orange text-uppercase text-center mt-3 mb-1">{{$h->name}}</h4>
-                <h6 class="text-center ft-color-white text-uppercase mb-4">
-                    {{$h->subtitle}}
-                </h6>
-            </button>
+                    <h4 class="ft-color-orange text-uppercase text-center mt-3 mb-1">{{$h->name}}</h4>
+                    <h6 class="text-center ft-color-white text-uppercase mb-4">
+                        {{$h->subtitle}}
+                    </h6>
+                </a>
             @endforeach
             
            

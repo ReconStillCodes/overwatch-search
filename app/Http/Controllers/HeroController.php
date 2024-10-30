@@ -14,4 +14,10 @@ class HeroController extends Controller
     public function getFilterHero($filter){
         return Hero::where('name', 'LIKE', "%{$filter}%")->get();
     }
+
+    public function getHero($id){
+       $h =  Hero::where('id' ,  $id)->first();
+       return $h;
+    //    return $h;
+    }
 }

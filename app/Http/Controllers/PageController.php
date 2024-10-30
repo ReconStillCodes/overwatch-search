@@ -34,4 +34,10 @@ class PageController extends Controller
 
         return view('home', compact('roles', 'heroes'));
     }
+
+    public function toHero($hero_id){
+        $roles = $this->getAllRoles();
+        $hero = $this->heroController->getHero($hero_id);
+        return view('hero', compact('roles', 'hero'));
+    }
 }
