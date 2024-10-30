@@ -35,10 +35,11 @@
     </nav>
 
     {{-- Main Content --}}
-    <div class="main-content">
-        @yield('content')
+    <div class="title-content">
+        @yield('title-content')
     </div>
 
+    @yield('main-content')
 
     <script src="/bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js"></script>
 </body>
