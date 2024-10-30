@@ -14,10 +14,18 @@
             {{-- Text --}}
             <h1 class="jumbotron-title">{{ $hero->name }}</h1>
             <h3 class="text-uppercase ft-color-orange">{{ $hero->subtitle }}</h3>
+
+            <h6 class="ft-color-white description mt-3">{{$hero->description}}</h6>
         </div>
     </div>
-
-    <
     
 
+@endsection
+
+@section('main-content')
+    <div class="container-md d-flex justify-content-center mt-4">
+        <div class="d-flex flex-column align-items-center t col-3">
+            test
+        </div>
+    </div>
 @endsection
