@@ -43,4 +43,11 @@ class PageController extends Controller
         $abilities = $this->abbilityController->getAbbilities($hero_id);
         return view('hero', compact('roles', 'hero', 'abilities'));
     }
+
+    public function toRole($id){
+        $roles = $this->getAllRoles();
+        $role = $this->roleController->getRole($id);
+        $heroes = $this->heroController->getAllRoleHeroes($id);
+        return view('role', compact('roles', 'role', 'heroes'));
+    }
 }

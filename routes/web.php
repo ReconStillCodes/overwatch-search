@@ -20,4 +20,6 @@ Route::get('/home', [PageController::class, 'searchHeroes'])->name('searchHeroes
 
 Route::get('/hero/{hero_id}', [PageController::class, 'toHero'])->name('hero');
 
+Route::get('/role/{role_id}', [PageController::class, 'toRole'])->name('role');
+
 

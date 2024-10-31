@@ -18,6 +18,9 @@ class HeroController extends Controller
     public function getHero($id){
        $h =  Hero::where('id' ,  $id)->first();
        return $h;
-    //    return $h;
+    }
+
+    public function getAllRoleHeroes($id){
+        return Hero::where('role', $id)->get();
     }
 }

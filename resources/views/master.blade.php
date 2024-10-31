@@ -24,7 +24,7 @@
                 <ul class="dropdown-menu" aria-labelledby="dd-roles">
                     @foreach ($roles as $r)
                         <li>
-                            <a href="{{$r->id}}" class="dropdown-item fw-bold h6">
+                            <a href="{{route('role', $r->id)}}" class="dropdown-item fw-bold h6">
                                 {{strtoupper($r->name)}}
                             </a>
                         </li>
